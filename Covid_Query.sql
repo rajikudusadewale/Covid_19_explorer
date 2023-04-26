@@ -1,3 +1,5 @@
+# Exploratory Data Analysis Using Sequel
+
 select * from CovidDeaths
 order by 3,4
 
