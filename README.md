@@ -31,7 +31,7 @@ The table on the dashboard provides a global summary of total cases, total death
 This trend shows the magnitude of the pandemic  has been reduced and there is still need for continued efforts to mitigate its impact to the minimal.
 
 
-## Conclusion and Recommendations:
+## Conclusion and Recommendations
 
 In conclusion, the exploratory analysis using Sequel gives insights to some global questions, and dashboard provides a comprehensive view of the impact of Covid 19 globally. The trends and insights obtained from the dashboard highlight the need for global cooperation in managing the pandemic, continued vigilance, and precautionary measures to prevent a resurgence of the virus.
 
