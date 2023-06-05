@@ -4,7 +4,7 @@ Excel, SQL, & Tableau
 
 The Covid-19 pandemic has had a significant impact on the global economy. The pandemic, which began in early 2020, has caused widespread disruption to businesses, supply chains, and financial markets.Some of the impact on Global Economy include; Economic Recession, Unemployment, Supply Chain Disruptions and so on.
 
-In this project, I analyzed and explored covid data Starting from 8th January, 2020 to 19th April, 2023. with Excel, SQL using Micrsoft SQL Server Management Studio. 
+In this project, I analyzed and explored covid data Starting from 8th January, 2020 to 19th April, 2023. with Excel, Tableau, SQL using Micrsoft SQL Server Management Studio. 
 Data Source: [Our World in Data](https://ourworldindata.org/covid-deaths) 
 
 I will advise to download the latest dataset from the site.  
